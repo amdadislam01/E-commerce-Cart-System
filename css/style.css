@@ -391,3 +391,17 @@ body {
     transform: translateY(0);
     opacity: 1;
 }
+
+/* Minimal Footer Style */
+.copyright-footer.minimal {
+    padding: 1rem 0;
+    background-color: rgba(0, 0, 0, 0.05);
+    color: #666;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.copyright-footer.minimal p {
+    text-align: center;
+    margin: 0;
+    font-size: 0.8rem;
+}

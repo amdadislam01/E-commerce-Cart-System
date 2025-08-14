@@ -42,3 +42,23 @@
         right: 0;
     }
 }
+/* Small Mobile Devices */
+@media (max-width: 480px) {
+    .section-title {
+        font-size: 1.5rem;
+    }
+    
+    .product-info {
+        padding: 1rem;
+    }
+    
+    .cart-item {
+        flex-direction: column;
+    }
+    
+    .cart-item-img {
+        width: 100%;
+        height: auto;
+        margin-bottom: 1rem;
+    }
+}
