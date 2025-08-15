@@ -21,7 +21,7 @@ A clean and responsive **E-commerce Cart System** built using **HTML**, **CSS** 
 ## ​ Technologies Used
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,netlify,github" alt="Tech Stack" width="180"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,netlify,github" alt="Tech Stack" width="280"/>
 </p>
 
 ---
