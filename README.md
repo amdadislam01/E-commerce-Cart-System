@@ -43,5 +43,4 @@ git clone https://github.com/amdadislam01/E-commerce-Cart-System.git
 # Navigate to the project folder
 cd E-commerce-Cart-System
 
-# Open the project in your browser
-Open index.html
+
