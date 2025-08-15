@@ -31,7 +31,7 @@ A clean and responsive **E-commerce Cart System** built using **HTML**, **CSS** 
 *(Replace the placeholder with your actual screenshot link)*
 
 <p align="center">
-  <img src="https://i.postimg.cc/YOUR_IMAGE_LINK.png" alt="E-commerce Cart System Screenshot" width="800"/>
+  <img src="https://ik.imagekit.io/yqnbhdlo4/Img/product?updatedAt=1755260812774" width="800"/>
 </p>
 
 ---
