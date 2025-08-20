@@ -1,4 +1,4 @@
-# ​ E-commerce Cart Syste
+# ​ E-commerce Cart System
 
 A clean and responsive **E-commerce Cart System** built using **HTML**, **CSS** and **JavaScript**. Allows users to browse products, add them to a cart, adjust quantities, and proceed with their shopping—delivering a smooth, intuitive user experience.
 
